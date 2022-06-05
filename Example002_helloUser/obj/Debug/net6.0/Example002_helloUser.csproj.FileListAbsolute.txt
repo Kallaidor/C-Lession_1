@@ -1,0 +1,15 @@
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\bin\Debug\net6.0\Example002_helloUser.exe
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\bin\Debug\net6.0\Example002_helloUser.deps.json
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\bin\Debug\net6.0\Example002_helloUser.runtimeconfig.json
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\bin\Debug\net6.0\Example002_helloUser.dll
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\bin\Debug\net6.0\Example002_helloUser.pdb
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.csproj.AssemblyReference.cache
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.GeneratedMSBuildEditorConfig.editorconfig
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.AssemblyInfoInputs.cache
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.AssemblyInfo.cs
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.csproj.CoreCompileInputs.cache
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.dll
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\refint\Example002_helloUser.dll
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.pdb
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\Example002_helloUser.genruntimeconfig.cache
+D:\KALLAIDOR\GB\C#\Lession_1\Example002_helloUser\obj\Debug\net6.0\ref\Example002_helloUser.dll
